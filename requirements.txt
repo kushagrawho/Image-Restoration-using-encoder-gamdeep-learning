@@ -1,0 +1,9 @@
+Flask==3.1.2
+Flask-SocketIO==5.6.1
+gunicorn==23.0.0
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.3.2
+pillow==11.3.0
+opencv-python==4.13.0.90
+scikit-image==0.26.0
